@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>[Sungkyunkwan University] (https://sw.skku.edu/eng_sw/index.do)</a>. Seoul, South Korea
-<a href='#'>[the University of Texas at Austin] (https://www.cs.utexas.edu/)</a>. Austin, Texas
+subtitle: <a href='#'>[Sungkyunkwan University](https://sw.skku.edu/eng_sw/index.do)</a>. Seoul, South Korea
+<a href='#'>[the University of Texas at Austin](https://www.cs.utexas.edu/)</a>. Austin, Texas
 
 profile:
   align: right
