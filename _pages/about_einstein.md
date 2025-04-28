@@ -1,21 +1,20 @@
-Hi, I'm Sangho Kim, a sophomore student at SunKyunKwan University, advised by [Prof. Sangmin Lee](https://sites.google.com/view/sangmin-lee/home)).
+Hi, I'm Sangho Kim, a sophomore student at SunKyunKwan University, South Korea.
 
-I'm moving to Austin, TX for my Exchange year at UT Austin CS department, starting from Fall 2025 to Spring 2026.
+I major in **Computer Science & Engineering** with a triple degree on
+**Artificial Intelligence**, and **Political Science & International Relations**(PSIR).
 
-I major in Computer Science & Engineering with a triple degree on
-Artificial Intelligence, Political Science & International Relations in both campus.
+Note: I will be heading to Austin, TX for my Exchange year at the Universituy of Texas at Austin Computer Science department, starting from Fall 2025 to Spring 2026.
 
-I'm the Founder of SKKAI, 19th president of former TNT.
-Before that, I participated in the NLP session (Freshman & Military - Spring 2024),
-and Basic CV session (Sophomore, Team Lead - Fall 2024)
+I am currently doing my undergraduate research position, advised by [Prof. Sangmin Lee](https://sites.google.com/view/sangmin-lee/home).
 
-Currently I’m doing my research on ‘Artificial Social Intelligence’
-and ‘Multimodal Machine Learning’ under prof. Sangmin Lee @ SKKU.
+**My research domains** are as follows:
 
-Before that, I ended my research opportunity where I did my research on ‘AI Acceleration’
-under prof. Hyojin Seong @ SNU Graduate School of Data Science. (Summer 2024)
+1. Multi-modal Representation Learning and Reasoning
+2. Multi-party Social Interaction Understanding
+3. Artificial Social Intelligence (ASI)
 
-I’m going on exchange to the University of Texas at Austin for a year,
-starting this Fall 2025. I won’t be in Korea until June 2026.
+Previously, I interned at [Code Lab](https://codelab.snu.ac.kr/) @ Seoul National University Graduate School of Data Science, advised by [Prof. Hyojin Sung](https://codelab.snu.ac.kr/people) during my freshman year.
 
-Contact me freely via e-mail or LinkedIn if necessary.
+I'm also the Founder of SKKAI(SungKyunKwan AI), the unversity's one-and-only Student AI Association. Before that, I participated in the NLP, and Computer Vision session.
+
+I'm also a ex-Staff Sergeant from R.O.K. Air Force Operations Command Systems branch(Comms), where I worked with the United States 7th Air Force, at Osan Air Base. My proposals there were recognized by the Chief of Command and Palantir tech.
