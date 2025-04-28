@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href='#'> Sungkyunkwan University</a> Seoul, South Korea
-  <a href='#'> The University of Texas at Austin</a> Austin, TX, USA
+  <a href='#'>Sungkyunkwan University</a>, Seoul, South Korea<br>
+  <a href='#'>The University of Texas at Austin</a>, Austin, TX, USA
 
 
 profile:
@@ -43,7 +43,6 @@ I'm currently doing research at [Pixel Lab](https://sites.google.com/view/pixel-
 
 Previously, I interned at [Code Lab](https://codelab.snu.ac.kr/) @ Seoul National University Graduate School of Data Science, advised by [Prof. Hyojin Sung](https://codelab.snu.ac.kr/people) during my freshman year.
 
-I'm also the Founder of SKKAI(SungKyunKwan AI), the unversity's one-and-only Student AI Association. Before that, I participated in the NLP, and Computer Vision session.
+I'm the founder of SKKAI(SungKyunKwan AI), the unversity's frist Student AI Association bridging interdisciplinary majors, covering Low-level AI(Semiconductors) to High-level AI(Laws, Ethics and Policies). Before that, I participated in the Natural Language Processing (Spring 2024), and Computer Vision session (Fall 2024).
 
-I'm also a ex-Staff Sergeant from R.O.K. Air Force Operations Command Systems branch(Comms), where I worked with the United States 7th Air Force, at Osan Air Base. My proposals there were recognized by the Chief of Command and Palantir tech.
-
+I'm also an ex-Staff Sergeant from R.O.K. Air Force Operations Command Systems branch(Comms), where I worked beside with the United States 7th Air Force, at Osan Air Base. My proposals made during my duty were recognized by the R.O.K. Chief of Command and Palantir technologies.
