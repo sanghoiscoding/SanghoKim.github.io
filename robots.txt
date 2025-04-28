@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AboutSanghoKim.github.io/sitemap.xml
+Sitemap: https://sanghoiscoding.github.io/SanghoKim.github.io/sitemap.xml
