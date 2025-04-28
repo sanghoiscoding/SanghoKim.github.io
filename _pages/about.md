@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href='#'> Sungkyunkwan University </a>. Seoul, South Korea
-  <a href='#'> The University of Texas at Austin]</a>. Austin, TX, USA
+  <a href='#'> Sungkyunkwan University</a> Seoul, South Korea
+  <a href='#'> The University of Texas at Austin</a> Austin, TX, USA
 
 
 profile:
