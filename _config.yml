@@ -663,5 +663,9 @@ jsonresume:
 
 exclude:
   - _pages/blog.md
-  - assets/jupyter/blog.ipynb
+  - _pages/teaching.md
+  - _pages/people.md
   - _pages/repositories.md
+  - _posts/
+  - _news/announcement_*.md
+  - assets/jupyter/blog.ipynb
