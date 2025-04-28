@@ -27,8 +27,24 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Sangho Kim, a sophomore student at SunKyunKwan University, South Korea.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I major in **Computer Science & Engineering** with a triple degree on
+**Artificial Intelligence**, and **Political Science & International Relations**(PSIR).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Note: I will be heading to Austin, TX for my Exchange year at the Universituy of Texas at Austin Computer Science department, starting from Fall 2025 to Spring 2026.
+
+I am currently doing my undergraduate research position at [Pixel Lab](https://sites.google.com/view/pixel-lab-ai/home?authuser=0) advised by [Prof. Sangmin Lee](https://sites.google.com/view/sangmin-lee/home).
+
+**My research domains** are as follows:
+
+1. Multi-modal Representation Learning and Reasoning
+2. Multi-party Social Interaction Understanding
+3. Artificial Social Intelligence (ASI)
+
+Previously, I interned at [Code Lab](https://codelab.snu.ac.kr/) @ Seoul National University Graduate School of Data Science, advised by [Prof. Hyojin Sung](https://codelab.snu.ac.kr/people) during my freshman year.
+
+I'm also the Founder of SKKAI(SungKyunKwan AI), the unversity's one-and-only Student AI Association. Before that, I participated in the NLP, and Computer Vision session.
+
+I'm also a ex-Staff Sergeant from R.O.K. Air Force Operations Command Systems branch(Comms), where I worked with the United States 7th Air Force, at Osan Air Base. My proposals there were recognized by the Chief of Command and Palantir tech.
+
