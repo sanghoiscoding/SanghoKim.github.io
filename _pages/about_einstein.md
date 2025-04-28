@@ -5,7 +5,7 @@ I major in **Computer Science & Engineering** with a triple degree on
 
 Note: I will be heading to Austin, TX for my Exchange year at the Universituy of Texas at Austin Computer Science department, starting from Fall 2025 to Spring 2026.
 
-I am currently doing my undergraduate research position, advised by [Prof. Sangmin Lee](https://sites.google.com/view/sangmin-lee/home).
+I am currently doing my undergraduate research position at [Pixel Lab](https://sites.google.com/view/pixel-lab-ai/home?authuser=0) advised by [Prof. Sangmin Lee](https://sites.google.com/view/sangmin-lee/home).
 
 **My research domains** are as follows:
 
