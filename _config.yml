@@ -659,3 +659,9 @@ jsonresume:
   - languages
   - interests
   - references
+
+
+exclude:
+  - _pages/blog.md
+  - assets/jupyter/blog.ipynb
+  - _pages/repositories.md
