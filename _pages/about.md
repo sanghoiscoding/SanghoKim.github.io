@@ -30,14 +30,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Sangho Kim, a sophomore student at SunKyunKwan University, South Korea.
+Hi, I'm Sangho, a sophomore student at SunKyunKwan University in South Korea.
 
-I major in **Computer Science & Engineering** with a triple degree on
-**Artificial Intelligence**, and **Political Science & International Relations**(PSIR).
+I major in **Computer Science & Engineering**(CSE) with a triple degree
+on **Artificial Intelligence**(AI), and **Political Science & International Relations**(PSIR).
 
-Note: I will be heading to Austin, TX for my Exchange year at the Universituy of Texas at Austin Computer Science department, starting from Fall 2025 to Spring 2026.
+Note: I will be heading to Austin, TX for my Exchange year at the University of Texas at Austin Computer Science department, starting from Fall 2025 to Spring 2026.
 
-I am currently doing my undergraduate research position at [Pixel Lab](https://sites.google.com/view/pixel-lab-ai/home?authuser=0) advised by [Prof. Sangmin Lee](https://sites.google.com/view/sangmin-lee/home).
+I'm currently doing research at [Pixel Lab](https://sites.google.com/view/pixel-lab-ai/home?authuser=0), advised by [Prof. Sangmin Lee](https://sites.google.com/view/sangmin-lee/home).
 
 **My research domains** are as follows:
 
