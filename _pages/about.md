@@ -43,6 +43,6 @@ I'm currently doing research at [Pixel Lab](https://sites.google.com/view/pixel-
 
 Previously, I interned at [Code Lab](https://codelab.snu.ac.kr/) @ Seoul National University Graduate School of Data Science, advised by [Prof. Hyojin Sung](https://codelab.snu.ac.kr/people) during my freshman year.
 
-I'm the founder of SKKAI(SungKyunKwan AI), the unversity's frist Student AI Association bridging interdisciplinary majors, covering Low-level AI(Semiconductors) to High-level AI(Laws, Ethics and Policies). Before that, I participated in the Natural Language Processing (Spring 2024), and Computer Vision session (Fall 2024).
+I'm the founder of SKKAI(SungKyunKwan AI), the unversity's frist Student AI Association bridging interdisciplinary majors, covering Low-level to High-level AI. Before that, I participated in the Natural Language Processing, and Computer Vision sessions.
 
-I'm also an ex-Staff Sergeant from R.O.K. Air Force Operations Command Systems branch(Comms), where I worked beside with the United States 7th Air Force, at Osan Air Base. My proposals made during my duty were recognized by the R.O.K. Chief of Command and Palantir technologies.
+I'm also an ex-Staff Sergeant from R.O.K. Air Force Operations Command Systems branch(Comms), where I worked closely with the United States 7th Air Force, at Osan Air Base. My proposals there were highly recognized by the R.O.K. Chief of Command and Palantir technologies.
