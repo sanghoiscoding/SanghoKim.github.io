@@ -26,10 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Sangho, a sophomore student at SunKyunKwan University in South Korea.
+Hi, I'm Sangho, a sophomore student at SungKyunKwan University in South Korea.
 
-I major in **Computer Science & Engineering**(CSE) with a triple degree
-on **Artificial Intelligence**(AI), and **Political Science & International Relations**(PSIR).
+I major in **Computer Science & Engineering** (CSE) with a triple degree
+on **Artificial Intelligence** (AI), and **Political Science & International Relations**(PSIR).
 
 Note: I will be heading to Austin, TX for my Exchange year at the University of Texas at Austin Computer Science department, starting from Fall 2025 to Spring 2026.
 
@@ -43,6 +43,6 @@ I'm currently doing research at [Pixel Lab](https://sites.google.com/view/pixel-
 
 Previously, I interned at [Code Lab](https://codelab.snu.ac.kr/) @ Seoul National University Graduate School of Data Science, advised by [Prof. Hyojin Sung](https://codelab.snu.ac.kr/people) during my freshman year.
 
-I'm the founder of SKKAI(SungKyunKwan AI), the unversity's frist Student AI Association bridging interdisciplinary majors, covering Low-level to High-level AI. Before that, I participated in the Natural Language Processing, and Computer Vision sessions.
+I'm the founder of SKKAI(SungKyunKwan AI), the unversity's frist Student AI Association bridging interdisciplinary majors, covering low-level to high-level AI. Before that, I participated as a team lead in the Natural Language Processing session, and the Computer Vision session.
 
-I'm also an ex-Staff Sergeant from R.O.K. Air Force Operations Command Systems branch(Comms), where I worked closely with the United States 7th Air Force, at Osan Air Base. My proposals there were highly recognized by the R.O.K. Chief of Command and Palantir technologies.
+I'm also an ex-Staff Sergeant from R.O.K. Air Force Operations Command Systems branch(Comms), where I worked closely with the United States 7th Air Force, at Osan Air Base. My proposals there were highly recognized by the R.O.K. Air Force Chief of Staff and Palantir technologies.
